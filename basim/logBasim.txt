@@ -1,0 +1,9 @@
+
+Starting Basim's REFERENCE Code by ABOUTABL.
+
+Logged in as user '' on Wed Oct 23 15:50:17 2024
+
+<readFr. Amal> FD=3 , <sendTo Amal> FD=5
+
+
+Basim Could not receive from Amal
