@@ -3,8 +3,9 @@
 FILE:   dispatcher.c
 
 Written By: 
-     1- Dr. Mohamed Aboutabl
-Submitted on: 
+     1- James Handlon
+     2- Ethan Himes
+Submitted on: 10/29/24
 -------------------------------------------------------------------------------*/
 
 #include <unistd.h>
